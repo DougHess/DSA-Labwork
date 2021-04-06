@@ -1,2 +1,2 @@
 # DSA-Labwork
-lab work in data structure algorithms at Rowan University under Dr. Hristcu
+lab work pertaining to data structure algorithms at Rowan University under Dr. Gabriela Hristescu.
